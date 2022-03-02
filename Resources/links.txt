@@ -1,0 +1,5 @@
+Predicting Natural Gas Spot Prices Using Artificial Neural Network - https://origin-ieeexplore.ieee.org/document/8769586/citations?tabFilter=papers#citations
+An analysis of short-term price forecasting of power market by using ANN - https://origin-ieeexplore.ieee.org/document/7117756
+Natural Gas Price Prediction with Big Data - https://origin-ieeexplore.ieee.org/document/9006195
+Are natural gas spot and futures prices predictable? - https://www.sciencedirect.com/science/article/abs/pii/S0264999316000055
+Daily natural gas price forecasting by a weighted hybrid data-driven model - https://www.sciencedirect.com/science/article/abs/pii/S0920410520303259

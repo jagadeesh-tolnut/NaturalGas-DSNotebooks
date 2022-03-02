@@ -1,0 +1,12 @@
+Dataset links:
+
+Natural gas price - https://finance.yahoo.com/quote/NG=F?p=NG=F&.tsrc=fin-srch
+Crude oil price - https://finance.yahoo.com/quote/CL=F?p=CL=F&.tsrc=fin-srch
+Heating oil price - https://finance.yahoo.com/quote/HO=F?p=HO=F&.tsrc=fin-srch
+US Natural Gas Consumption - https://www.eia.gov/dnav/ng/hist/n9140us2M.htm
+Natural Gas Gross Withdrawals and Production - https://www.eia.gov/dnav/ng/ng_prod_sum_dc_NUS_MMCF_m.htm
+US Natural Gas marketed production - https://www.eia.gov/dnav/ng/hist/n9050us2M.htm
+Heating Degree Day Data - https://www.aga.org/research/data/heating-degree-day-data/
+Cooling Degree Day Data - https://www.aga.org/research/data/cooling-degree-day-data/
+U.S._Natural_Gas_Underground_Storage_Volume - https://www.eia.gov/dnav/ng/hist/n5030us2m.htm
+
